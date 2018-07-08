@@ -1,0 +1,5 @@
+ChallengeResponseAuthentication no
+PasswordAuthentication no
+PubkeyAuthentication yes
+AuthorizedKeysCommand /etc/sshd/authorized_keys_command.sh %u %K
+AuthorizedKeysCommandUser nobody

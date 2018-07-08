@@ -1,0 +1,6 @@
+[submodule "lib/libnss-ato"]
+	path = lib/libnss-ato
+	url = https://github.com/donapieppo/libnss-ato.git
+[submodule "lib/musl-nscd"]
+	path = lib/musl-nscd
+	url = https://github.com/pikhq/musl-nscd.git
