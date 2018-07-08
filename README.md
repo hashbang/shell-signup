@@ -1,6 +1,6 @@
 # #! Shell Signup #
 
-<https://github.com/hashbang/shell-server>
+<https://github.com/hashbang/shell-signup>
 
 ## About ##
 
