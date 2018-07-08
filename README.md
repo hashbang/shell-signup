@@ -17,6 +17,14 @@ to our central signup server to create the account.
 
   * Docker v18.0+
 
+## Cloning ##
+
+  ```
+  git clone git@github.com:hashbang/shell-signup.git
+  cd shell-signup
+  git submodule update --init
+  ```
+
 ## Building ##
 
   ```
