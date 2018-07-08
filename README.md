@@ -40,6 +40,12 @@ to our central signup server to create the account.
 
 ## Debugging ##
 
+## Verify NSS resolution for unknown users
+  ```
+  docker run --rm --name shell-signup -it shell-signup id randomuser
+  ```
+
+## Start with ssh debugging to stdout
   ```
   docker run \
     --rm \
