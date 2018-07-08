@@ -64,6 +64,6 @@ Questions/Comments?
 
 Talk to us via:
 
-[Email](mailto://team@hashbang.sh) |
+[Email](mailto:team@hashbang.sh) |
 [IRC](ircs://irc.hashbang.sh:6697/#!) |
 [Issues](http://github.com/hashbang/)
